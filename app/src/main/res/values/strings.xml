@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Courier Delivery</string>
+    <string name="title_activity_track_person">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Starting_text">Hello, Our Courier Delivery service provides an efficient way to manage and delivery courier..Here you can track the live location of the delivery peroson in real time. You can login and register as a user and if you are admin then you can login as admin.User can send courier request to the admin.Admin will approve that request and then courier will be delivered</string>
+
+</resources>
